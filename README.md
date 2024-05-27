@@ -61,10 +61,3 @@ The project is organized into several sections, each focusing on a specific aspe
 - **Known Issues and Troubleshooting:** List of known issues and their solutions.
 - **Future Enhancements:** Suggestions for future improvements.
 
-
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-If you have any questions or suggestions, feel free to reach out to me at [your.email@example.com].
